@@ -75,5 +75,5 @@ Instead of making a whole class file, here is the algorithm and i have provided 
               }
        }
 
-
+The sprites were made with SpriteKit but if you change if it should work with any other sprite rendering stuff ( UIImage, Cocos2d)
       

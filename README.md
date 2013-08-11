@@ -1,11 +1,11 @@
-String To TileMap
-=================
+#String To TileMap
 
 Generates tilemap completely from string
 
 Example:
+========
 
-	@"[AAAAAAAAAAAAAAAAAAAA]"![screenShot](http://i39.tinypic.com/34h77o2.jpg)
+       @"[AAAAAAAAAAAAAAAAAAAA]"             
         "[AAAAAAAAAAAAAAAAAAAA]"
         "[AAABAAAAAACAAAAAAAAA]"
         "[AAAAAAAADEAAAAAAAAAA]"
@@ -35,3 +35,15 @@ Example:
         "[AAAAAAAAAAAAAAAAAAAA]"
         "[AAAAACAAAAAAABAAAAAA]"
         "[AAAAAAAAAAAAAAAAAAAA]";
+        
+Output
+======
+
+![screenShot](http://i39.tinypic.com/34h77o2.jpg)
+
+#The Algorithm
+
+Instead of making a whole class file, here is the algorithm and i have provided a demo inside this repo
+
+
+      
